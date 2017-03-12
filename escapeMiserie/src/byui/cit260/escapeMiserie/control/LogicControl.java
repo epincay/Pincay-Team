@@ -29,8 +29,5 @@ public class LogicControl {
         
         return true;
     }
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
 }
