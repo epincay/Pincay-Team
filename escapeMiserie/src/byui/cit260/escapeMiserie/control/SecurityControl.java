@@ -10,6 +10,7 @@ package byui.cit260.escapeMiserie.control;
  * @author Eddie Pincay
  */
 public class SecurityControl {
+<<<<<<< HEAD
     public boolean moveSecurity(double guard, double position){
         if(guard < 1 || guard > 5){ //The guard is between 1-5
             return false;
@@ -38,5 +39,7 @@ public class SecurityControl {
         }       
         return amount;
     }
+=======
+>>>>>>> origin/master
     
 }
