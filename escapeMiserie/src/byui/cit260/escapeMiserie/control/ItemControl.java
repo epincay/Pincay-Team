@@ -31,8 +31,5 @@ public class ItemControl {
         amount --;
         return amount;
     }
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
 }
