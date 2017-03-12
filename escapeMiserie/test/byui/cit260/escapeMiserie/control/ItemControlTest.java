@@ -146,6 +146,7 @@ public class ItemControlTest {
         //compare expected return value with actual value returned
         assertEquals(expResult, result, 0.000001);
     }
+<<<<<<< HEAD
 
     /**
      * Test of removeFromInventory method, of class ItemControl.
@@ -275,5 +276,7 @@ public class ItemControlTest {
         //compare expected return value with actual value returned
         assertEquals(expResult, result, 0.000001);
     }
+=======
+>>>>>>> origin/master
     
 }

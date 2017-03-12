@@ -10,6 +10,7 @@ package byui.cit260.escapeMiserie.control;
  * @author Eddie Pincay
  */
 public class LogicControl {
+<<<<<<< HEAD
     public double calcAreaTriangle(double base, double height){
         if(base < 0){ //The base is no possible negative number
             return -1;
@@ -29,4 +30,7 @@ public class LogicControl {
         
         return true;
     }
+=======
+    
+>>>>>>> origin/master
 }
