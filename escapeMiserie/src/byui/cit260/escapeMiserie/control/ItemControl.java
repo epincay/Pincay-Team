@@ -21,7 +21,7 @@ public class ItemControl {
         amount ++;
         return amount;
     }
-<<<<<<< HEAD
+
     public double removeFromInventory(double inventoryType, double amount){
         if(inventoryType < 0 || inventoryType > 9){ //The inventoryType is between 1-8
             return -1;
@@ -32,6 +32,5 @@ public class ItemControl {
         amount --;
         return amount;
     }
-=======
->>>>>>> origin/master
+
 }
